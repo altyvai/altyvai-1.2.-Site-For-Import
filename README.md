@@ -1,7 +1,7 @@
 #NeuroStartUp
 ___
 
-
+![logo](https://github.com/altyvai/altyvai-1.2.-Site-For-Import/blob/main/logo.png)
 
 *NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта. 
 
